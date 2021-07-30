@@ -1,0 +1,10 @@
+C:\Users\jijiw\Desktop\Github\momikiller\obj\Debug\momikiller.csprojAssemblyReference.cache
+C:\Users\jijiw\Desktop\Github\momikiller\obj\Debug\momikiller.Form1.resources
+C:\Users\jijiw\Desktop\Github\momikiller\obj\Debug\momikiller.Properties.Resources.resources
+C:\Users\jijiw\Desktop\Github\momikiller\obj\Debug\momikiller.csproj.GenerateResource.cache
+C:\Users\jijiw\Desktop\Github\momikiller\obj\Debug\momikiller.csproj.CoreCompileInputs.cache
+C:\Users\jijiw\Desktop\Github\momikiller\bin\Debug\momikiller.exe.config
+C:\Users\jijiw\Desktop\Github\momikiller\bin\Debug\momikiller.exe
+C:\Users\jijiw\Desktop\Github\momikiller\bin\Debug\momikiller.pdb
+C:\Users\jijiw\Desktop\Github\momikiller\obj\Debug\momikiller.exe
+C:\Users\jijiw\Desktop\Github\momikiller\obj\Debug\momikiller.pdb
